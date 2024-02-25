@@ -69,7 +69,7 @@ where `a` is the first shape parameter and `b` the second shape parameter.
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-median@v0.2.1-esm/index.mjs';
 ```
 
 #### median( a, b )
@@ -144,7 +144,7 @@ y = median( 0.5, 0.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-median@v0.2.1-esm/index.mjs';
 
 var a;
 var b;
