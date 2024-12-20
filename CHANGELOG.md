@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-20)
+
+<section class="features">
+
+### Features
+
+-   [`fc5df17`](https://github.com/stdlib-js/stdlib/commit/fc5df1769306302648f8ed492455558447c47d8f) - add C implementation for `stats/base/dists/kumaraswamy/median` [(#4020)](https://github.com/stdlib-js/stdlib/pull/4020)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3701](https://github.com/stdlib-js/stdlib/issues/3701)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fc5df17`](https://github.com/stdlib-js/stdlib/commit/fc5df1769306302648f8ed492455558447c47d8f) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/median` [(#4020)](https://github.com/stdlib-js/stdlib/pull/4020) _(by Desh Deepak Kant, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Desh Deepak Kant
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
