@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-22)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`5b71452`](https://github.com/stdlib-js/stdlib/commit/5b71452bd40811341a2e4eaab018c3cc17c5feac) - **docs:** update related packages sections [(#4135)](https://github.com/stdlib-js/stdlib/pull/4135) _(by stdlib-bot, Athan Reines)_
 -   [`fc5df17`](https://github.com/stdlib-js/stdlib/commit/fc5df1769306302648f8ed492455558447c47d8f) - **feat:** add C implementation for `stats/base/dists/kumaraswamy/median` [(#4020)](https://github.com/stdlib-js/stdlib/pull/4020) _(by Desh Deepak Kant, Philipp Burckhardt)_
 
