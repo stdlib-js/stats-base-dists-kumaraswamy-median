@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-09)
+## Unreleased (2025-03-01)
 
 <section class="features">
 
@@ -16,13 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`eaccd6c`](https://github.com/stdlib-js/stdlib/commit/eaccd6c6b695a1b7bb2807a4ad12a54f9577339f) - update C implementation for `stats/base/dists/kumaraswamy/median` [(#5452)](https://github.com/stdlib-js/stdlib/pull/5452)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3701](https://github.com/stdlib-js/stdlib/issues/3701)
+[#3701](https://github.com/stdlib-js/stdlib/issues/3701), [#5047](https://github.com/stdlib-js/stdlib/issues/5047)
 
 </section>
 
@@ -34,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`eaccd6c`](https://github.com/stdlib-js/stdlib/commit/eaccd6c6b695a1b7bb2807a4ad12a54f9577339f) - **fix:** update C implementation for `stats/base/dists/kumaraswamy/median` [(#5452)](https://github.com/stdlib-js/stdlib/pull/5452) _(by Gautam sharma, Karan Anand, stdlib-bot, Philipp Burckhardt)_
 -   [`911e179`](https://github.com/stdlib-js/stdlib/commit/911e1793885aced96a177f2ea54300503b2c2a26) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
@@ -52,10 +63,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Desh Deepak Kant
+-   Gautam sharma
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
