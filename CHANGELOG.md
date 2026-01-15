@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-13)
+## Unreleased (2026-01-15)
 
 <section class="features">
 
@@ -44,7 +44,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
--   [`4a599d7`](https://github.com/stdlib-js/stdlib/commit/4a599d7672902faa05e6dfbe3822a27422337278) - **docs:** replace manual `for` loop in examples [(#8230)](https://github.com/stdlib-js/stdlib/pull/8230) _(by Harsh)_
+-   [`5b02960`](https://github.com/stdlib-js/stdlib/commit/5b0296021280236d1e98e0d2c6d2082eb4ebb47d) - **bench:** update random value generation [(#9737)](https://github.com/stdlib-js/stdlib/pull/9737) _(by Harsh Yadav)_
+-   [`4a599d7`](https://github.com/stdlib-js/stdlib/commit/4a599d7672902faa05e6dfbe3822a27422337278) - **docs:** replace manual `for` loop in examples [(#8230)](https://github.com/stdlib-js/stdlib/pull/8230) _(by Harsh Yadav)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`eaccd6c`](https://github.com/stdlib-js/stdlib/commit/eaccd6c6b695a1b7bb2807a4ad12a54f9577339f) - **fix:** update C implementation for `stats/base/dists/kumaraswamy/median` [(#5452)](https://github.com/stdlib-js/stdlib/pull/5452) _(by Gautam sharma, Karan Anand, stdlib-bot, Philipp Burckhardt)_
@@ -71,7 +72,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Athan Reines
 -   Desh Deepak Kant
 -   Gautam sharma
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
