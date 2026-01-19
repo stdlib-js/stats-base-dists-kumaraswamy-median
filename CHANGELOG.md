@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-15)
+## Unreleased (2026-01-19)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`81d3277`](https://github.com/stdlib-js/stdlib/commit/81d3277b781d2270f126ae12bc67269107d23a5f) - **test:** remove duplicate test cases in `stats/base/dists/kumaraswamy` packages _(by Philipp Burckhardt)_
 -   [`5b02960`](https://github.com/stdlib-js/stdlib/commit/5b0296021280236d1e98e0d2c6d2082eb4ebb47d) - **bench:** update random value generation [(#9737)](https://github.com/stdlib-js/stdlib/pull/9737) _(by Harsh Yadav)_
 -   [`4a599d7`](https://github.com/stdlib-js/stdlib/commit/4a599d7672902faa05e6dfbe3822a27422337278) - **docs:** replace manual `for` loop in examples [(#8230)](https://github.com/stdlib-js/stdlib/pull/8230) _(by Harsh Yadav)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
